@@ -44,7 +44,7 @@ function DOM_i(char, speed) {
 let ps = ["元旦快乐", "愿我爱的人", "❤崔佳羽❤", "每一天都", "开开心心", "健健康康", "再寒冷的冬季", "有你的日子", "那便是春天" , "来自一个", "憨憨的独白", "(●'◡'●)"];
 let settings = {
     time: 3000,
-    size: 3,
+    size: 2,
     speed: 'normal'
 };
 
