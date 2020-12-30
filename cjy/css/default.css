@@ -1,4 +1,4 @@
-body{margin:0;padding:0;background:#ffe;font-size:14px;color:#231F20;overflow:auto}
+body{margin:0;padding:0;background:#ffe;font-size:14px;color:lightpink;overflow:auto}
 a {color:#000;font-size:14px;}
 #main{width:100%;}
 #wrap{position:relative;margin:0 auto;width:1100px;height:680px;margin-top:10px;}
@@ -14,10 +14,6 @@ a {color:#000;font-size:14px;}
     text-shadow: 0 0 10px #000;
     margin: 0 .5rem;
 }
-#clock-box {position:absolute;left:60px;top:550px;font-size:28px;display:none;}
-#clock-box a {font-size:28px;text-decoration:none;}
-#clock{margin-left:48px;}
-#clock .digit {font-size:64px;}
 #canvas{margin:0 auto;width:1100px;height:680px;}
 #error{margin:0 auto;text-align:center;margin-top:60px;display:none;}
 .hand{cursor:pointer;}
